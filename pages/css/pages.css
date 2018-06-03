@@ -16,3 +16,7 @@ img {
 }
 
 /* Voeg jouw css hieraan toe */
+h2{
+    font-size: 16px;
+    color: rgb(60, 6, 148);
+}
